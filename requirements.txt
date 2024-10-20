@@ -1,0 +1,10 @@
+# Required dependencies for the SDV project on Ubuntu
+
+Jetson.GPIO         # For controlling GPIO pins on Jetson devices
+numpy               # For numerical operations
+opencv-python       # For image processing and computer vision
+scikit-learn        # For machine learning algorithms
+matplotlib          # For plotting and visualizing data
+pandas              # For data manipulation and analysis
+
+# Additional dependencies can be added below
