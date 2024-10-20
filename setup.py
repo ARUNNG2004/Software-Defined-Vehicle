@@ -5,7 +5,7 @@ import time
 GPIO.setmode(GPIO.BOARD)
 
 # Define GPIO pins for Trigger and Echo (physical pin numbers)
-TRIG = 12 # Pin 16 for Trigger
+TRIG = 12 # Pin 12 for Trigger
 ECHO = 18  # Pin 18 for Echo
 IN1 = 21   # GPIO pin for motor 1 forward
 IN2 = 22  # GPIO pin for motor 1 backward
