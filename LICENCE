@@ -1,19 +1,38 @@
-MIT License
-Project Name: Software-Defined Vehicle
+Software-Defined Vehicle
+======================
 
-Description: This project shows how to control GPIO pins on NVIDIA Jetson devices using Python with the Jetson.GPIO library. Scripts are already implemented containing code for the setup of GPIO inputs/outputs, toggling of pins, and interrupt handling. Installation steps and usage examples are clearly outlined in the repository.
+Description: 
+This project shows how to control GPIO pins on NVIDIA Jetson devices using Python with the Jetson.GPIO library.
 
 Copyright (c) 2024
 ABDUL SAMEER A, ARUN N G, GAYATHIRI B, MEGANATHAN M
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+License Terms
+------------
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+1. Any modifications or derivative works of this Software require explicit written permission from the copyright 
+   holders listed above.
 
-Authors:
- ABDUL SAMEER A, ARUN N G, GAYATHIRI B, MEGANATHAN M
+2. To request permission for modifications, please contact the authors at:
+   - Abdul Sameer A: abdulsameer0910@gmail.com
+   - Arun N G: ngarun2004@gmail.com
+   - Gayathiri B: gayathiribala15@gmail.com
+   - Meganathan M: meganathan4448588@gmail.com
 
-Contact Information:
-abdulsameer0910@gmail.com, ngarun2004@gmail.com, gayathiribala15@gmail.com, meganathan4448588@gmail.com
+3. The above copyright notice, permission notice, and modification requirements shall be included in all copies 
+   or substantial portions of the Software.
+
+4. For usage without modifications, all original MIT license rights apply including rights to use, copy, publish, 
+   distribute, sublicense, and/or sell copies of the Software.
+
+Disclaimer
+----------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
